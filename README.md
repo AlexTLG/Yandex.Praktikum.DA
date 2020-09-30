@@ -8,5 +8,9 @@
 ## Описание проектов:
 |        №      | Ссылка            | Краткое описание                                                 |
 |---------------|-------------------|------------------------------------------------------------------|
-|1              |[Исследование рынка недвижимости](https://github.com/Darthlexx/Yandex.Praktikum.DA/blob/master/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8/roommates_spb.ipynb)| Имеем архив объявлений о продаже квартир в Питере. Определяем рыночную стоимость и характер объектов|
+|1              |[Исследование рынка недвижимости](hhttps://github.com/Darthlexx/Yandex.Praktikum.DA/blob/master/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F/moscow_eats.ipynb)| Имеем архив объявлений о продаже квартир в Питере. Определяем рыночную стоимость и характер объектов|
 |2              |[Исследование рынка питания](https://github.com/Darthlexx/Yandex.Praktikum.DA/blob/master/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F/moscow_eats.ipynb)| Открываем кафе в столице. Смотрим наиболее проходные районы, строим графики привлекательности, определяем район по названию улицы|
+
+## Инструменты проектов:
+Библиотеки: "pandas", "matplotlib.pyplot", "numpy", "plotly.express", "seaborn", "requests"
+Выполнение заданий в Jupiter Notebook
