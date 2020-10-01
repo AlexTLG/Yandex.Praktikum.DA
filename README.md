@@ -12,7 +12,9 @@
 |2              |[Исследование рынка питания](https://github.com/Darthlexx/Yandex.Praktikum.DA/blob/master/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F/moscow_eats.ipynb)| Открываем кафе в столице. Смотрим наиболее проходные районы, строим графики привлекательности, определяем район по названию улицы|
 
 ## Инструменты проектов:
-Библиотеки: "pandas", "matplotlib.pyplot", "numpy", "plotly.express", "seaborn", "requests"
+Библиотеки: "pandas", "matplotlib.pyplot", "numpy", "plotly.express", "seaborn", "requests".
+Инструменты обработки: функция для поиска пропусков/дубликатов (с подсчетом), метод info и describe для таблиц.
+Инструменты EDA: merge, concat, pivot_table, математические правила счёта.
 
 Выполнение заданий в Jupiter Notebook
 
