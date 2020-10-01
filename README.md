@@ -13,4 +13,7 @@
 
 ## Инструменты проектов:
 Библиотеки: "pandas", "matplotlib.pyplot", "numpy", "plotly.express", "seaborn", "requests"
+
 Выполнение заданий в Jupiter Notebook
+
+
